@@ -26,8 +26,10 @@ HPA-R2 innovative architecture consists of three distinct yet interconnected lay
 
 **Thin Perception Layer:**
 Efficiently captures high-dimensional inputs while preserving essential information and reducing input entropy
+
 **Thick Processing Layer:**
 Leverages crowd intelligence mechanisms to actively reduce entropy through structured reasoning, collaborative processing, and deep ranking
+
 **Thin Decision Layer:**
 Distills complex representations into coherent outputs, further reducing entropy to facilitate clear, actionable decisions
 
@@ -46,15 +48,19 @@ AI Explainability: Transparent decision-making processes through entropy dynamic
 
 **Revolutionary Architecture: Thin-Thick-Thin Crowd Entropy Dynamics System**
 
-Entropy-Centric Design: Unlike traditional attention-based models, HPA-R2 is fundamentally designed around entropy reduction principles. This paradigm shift enables more effective handling of complex, uncertain problem spaces that challenge conventional AI systems.
-Crowd Intelligence Integration: The thick processing layer implements sophisticated crowd intelligence mechanisms that leverage collective reasoning patterns to systematically reduce entropy through collaborative processing and structured analysis.
-T3CEDS Framework: The three-layer architecture optimizes information flow from high-entropy inputs to low-entropy, actionable outputs, ensuring maximum coherence and decision clarity at each stage.
+-  Entropy-Centric Design: Unlike traditional attention-based models, HPA-R2 is fundamentally designed around entropy reduction principles. This paradigm shift enables more effective handling of complex, uncertain problem spaces that challenge conventional AI systems.
+
+-  Crowd Intelligence Integration: The thick processing layer implements sophisticated crowd intelligence mechanisms that leverage collective reasoning patterns to systematically reduce entropy through collaborative processing and structured analysis.
+
+-  T3CEDS Framework: The three-layer architecture optimizes information flow from high-entropy inputs to low-entropy, actionable outputs, ensuring maximum coherence and decision clarity at each stage.
 
 **Performance Excellence: State-of-the-Art Results**
 
-Humanity's Last Exam Leadership: Achieving 27.5% accuracy on HLE, HPA-R2 sets new benchmarks in complex reasoning tasks, demonstrating superior performance over leading models including OpenAI DeepResearch, Gemini2.5, and Claude 3.7 Sonnet.
-Multi-Benchmark Dominance: Consistent excellence across diverse evaluation metrics including AIME2025 (93.3%), GPQA-Diamond (88.0%), MMLU (86.0%), and SWE-bench Verified (72.0%), showcasing robust generalization capabilities.
-Open Research Commitment: HPA-R2 framework will be fully open-sourced with global API access for authenticated users, fostering collaborative advancement in entropy-based AI research.
+-  Humanity's Last Exam Leadership: Achieving 27.5% accuracy on HLE, HPA-R2 sets new benchmarks in complex reasoning tasks, demonstrating superior performance over leading models including OpenAI DeepResearch, Gemini2.5, and Claude 3.7 Sonnet.
+
+-  Multi-Benchmark Dominance: Consistent excellence across diverse evaluation metrics including AIME2025 (93.3%), GPQA-Diamond (88.0%), MMLU (86.0%), and SWE-bench Verified (72.0%), showcasing robust generalization capabilities.
+
+-  Open Research Commitment: HPA-R2 framework will be fully open-sourced with global API access for authenticated users, fostering collaborative advancement in entropy-based AI research.
 
 ## 3. Evaluation Results
 Comprehensive Benchmark Performance
@@ -72,37 +78,35 @@ HPA-R2 demonstrates exceptional performance across multiple challenging benchmar
 
 Key Performance Highlights
 
-🏆 Humanity's Last Exam (HLE): 27.5% accuracy, surpassing all existing models including OpenAI DeepResearch
-📊 AIME2025: 93.3% accuracy, demonstrating exceptional mathematical reasoning capabilities
-🔬 GPQA-Diamond: 88.0% accuracy, showing superior performance in graduate-level science questions
-📚 MMLU: 86.0% accuracy, indicating strong multi-domain knowledge understanding
-💻 SWE-bench Verified: 72.0% accuracy, proving effective software engineering problem-solving
+-  🏆 Humanity's Last Exam (HLE): 27.5% accuracy, surpassing all existing models including OpenAI DeepResearch
+
+-  📊 AIME2025: 93.3% accuracy, demonstrating exceptional mathematical reasoning capabilities
+
+-  🔬 GPQA-Diamond: 88.0% accuracy, showing superior performance in graduate-level science questions
+
+-  📚 MMLU: 86.0% accuracy, indicating strong multi-domain knowledge understanding
+
+-  💻 SWE-bench Verified: 72.0% accuracy, proving effective software engineering problem-solving
 
 
 ## 4. Chat Website
 Experience HPA-R2's revolutionary capabilities through our interactive platforms:
+
 🌐 Chat Interface: [hpar2.axon.com.cn](https://hpar2.axon.com.cn/)
 
-Real-time interaction with HPA-R2
-Entropy visualization in reasoning processes
-Multi-domain problem-solving capabilities
+-  Real-time interaction with HPA-R2
+-  Entropy visualization in reasoning processes
+-  Multi-domain problem-solving capabilities
 
 
 ## 5. License
 This repository and HPA-R2 model weights are licensed under the MIT License.
 Commercial and Research Use:
 
-✅ Commercial applications permitted
-✅ Modifications and derivative works allowed
-✅ Distillation for training other models supported
-✅ Open research and academic use encouraged
-
-Open Source Commitment:
-
-The complete Rica framework will be open-sourced
-Model weights and training procedures will be made available
-Comprehensive documentation and tutorials provided
-Community contributions welcomed and supported
+-  ✅ Commercial applications permitted
+-  ✅ Modifications and derivative works allowed
+-  ✅ Distillation for training other models supported
+-  ✅ Open research and academic use encouraged
 
 Attribution Requirements:
 
@@ -121,8 +125,9 @@ bibtexCopy@article{deepwism2025hpar2,
 
 ## 7. Contact
 For questions, collaborations, or support regarding HPA-R2 and the Rica framework:
-📧 Primary Contact: service@deepwism.com
-🏢 DeepWism AI
+-  📧 Primary Contact: service@deepwism.com
+
+-  🏢 DeepWism AI
 
 Website: www.deepwism.com
 
