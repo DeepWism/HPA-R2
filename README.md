@@ -17,7 +17,7 @@
   <a href="https://github.com/deepwism/HPA-R2/blob/main/LICENSE"><img alt="License"
     src="https://img.shields.io/badge/License-MIT-f5de53?&color=f5de53"/></a>
   <br><br>
-  <a href="https://github.com/deepwism-ai/HPA-R2/blob/main/HPA_R2.pdf"><b>Paper Link</b>👁️</a>
+  <!-- <a href="https://github.com/deepwism-ai/HPA-R2/blob/main/HPA_R2.pdf"><b>Paper Link</b>👁️</a> -->
 </div>
 
 ## 1. Introduction
@@ -114,19 +114,19 @@ Please cite our work when using HPA-R2 or the Rica framework
 Acknowledge DeepWism AI in derivative works
 Share improvements back to the community when possible
 
-## 6. Citation
+<!-- ## 6. Citation
 bibtexCopy@article{deepwism2025hpar2,
   title={HPA-R2: Entropy Reduction Is All You Need - Rica, An Intelligent Thin-Thick-Thin Crowd Entropy Dynamics System Approach to Next Generation AI},
   author={DeepWism AI},
   journal={arXiv preprint arXiv:2025.xxxxx},
   year={2025},
   url={https://arxiv.org/abs/2025.xxxxx}
-}
+} -->
 
-## 7. Contact
+## 6. Contact
 For questions, collaborations, or support regarding HPA-R2 and the Rica framework:
 -  📧 Primary Contact: service@deepwism.com
-
+ 
 -  🏢 DeepWism AI
 
 Website: www.deepwism.com
